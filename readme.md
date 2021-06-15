@@ -1,5 +1,5 @@
 # Obfuscated-Smiley
-It is an old obfuscated code which I made in java. The original code is present in [here](https://code.sololearn.com/cLMGmXxmHRAx/?ref=app).
+It is an old obfuscated code which I made in java.
 
 Input : Integer input,best works in 9 to 13
 
